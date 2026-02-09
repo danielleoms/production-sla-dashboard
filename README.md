@@ -6,7 +6,7 @@ Dashboard de Business Intelligence desenvolvido para monitorar o **nível de ser
 
 ## 🖥️ Visualização do Dashboard
 
-![Dashboard SLA Produção Externa](images/sla-producao-externa.png)
+[Dashboard SLA Produção Externa](https://app.powerbi.com/view?r=eyJrIjoiOTllNzFhMmUtMGYyZi00YjVhLTk3NjktYWI0MDViZDg1MzNhIiwidCI6IjZkYzZjNzEyLWZhYTYtNDgxZS1hMmE0LTdiOGI3ZWZjM2U3NSJ9)
 
 ---
 
